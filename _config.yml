@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "KDD Finance Day 2023"
+title: "KDD Finance Day 2024"
 # subtitle: Understanding the Limits and Pushing the Boundaries of Deep Learning
 # email: sameer@uci.edu
 description: 
@@ -70,7 +70,7 @@ footer:
       
     - label: "@hit"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://hits.sh/kddfinanceday.github.io.svg"
+      url: "https://hits.sh/kddfinanceday2024.github.io.svg"
       
     # - label: "@baharanm"
     #   icon: "fab fa-fw fa-twitter-square"
