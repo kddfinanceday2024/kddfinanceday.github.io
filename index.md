@@ -26,18 +26,18 @@ organizers_row_first:
     url: "http://www.plg.inf.uc3m.es/~dborrajo/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
-  - image_path: assets/images/tucker.jpeg
+  <!-- - image_path: assets/images/tucker.jpeg
     alt: "Tucker Balch"
     title: "Tucker Balch"
     excerpt: "Managing Director, J.P. Morgan AI Research"
     url: "https://www.linkedin.com/in/tuckerbalch/"
     btn_label: "Homepage"
-    btn_class: "btn--primary"
+    btn_class: "btn--primary" -->
 
 organizers_row_second:
-  - image_path: assets/images/jingyi_photo.jpg
-    alt: "Jingyi Gu"
-    title: "Jingyi Gu"
+  - image_path: assets/images/junyi_photo.jpg
+    alt: "Junyi Ye"
+    title: "Junyi Ye"
     excerpt: "Ph.D. Candidate, New Jersey Institute of Technology"
     url: "https://jingyigu.github.io/homepage.github.io//"
     btn_label: "Homepage"
