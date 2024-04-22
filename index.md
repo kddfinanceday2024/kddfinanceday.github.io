@@ -35,14 +35,14 @@ organizers_row_second:
     btn_label: "Homepage"
     btn_class: "btn--primary"
     
-sponsorship:
+<!-- sponsorship:
   - image_path: assets/images/nec.png
     alt: "NEC Laboratories America, Inc. (NEC Labs)"
     title: "NEC Laboratories America, Inc. (NEC Labs)"
     excerpt: ""
     url: "https://www.nec-labs.com"
     btn_label: "Homepage"
-    btn_class: "btn--primary"
+    btn_class: "btn--primary" -->
     
 ---
 <br/>
@@ -73,7 +73,7 @@ Join us at KDD Finance Day 2024 on August 26, 2024, in Barcelona, Spain. This ev
 
 ## Sponsorship
 
-<!-- {% include feature_row id="sponsorship" %} -->
+{% include feature_row id="sponsorship" %}
 
 </section>
 
