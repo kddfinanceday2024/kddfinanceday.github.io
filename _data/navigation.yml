@@ -9,7 +9,5 @@ main:
     url: 'speakers'
   - title: "Organizers"
     url: '#organizers'
-  - title: "Travel Award"
-    url: 'travelAward'
   # - title: "Tags"
   #   url: /tags/
