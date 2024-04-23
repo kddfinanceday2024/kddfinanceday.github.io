@@ -7,8 +7,7 @@ layout: single
 classes: wide
 author_profile: false
 
-<!--
-keynotespeakers:
+<!-- keynotespeakers:
   - image_path: assets/images/manuela.png
     alt: "Manuela M. Veloso"
     title: "Manuela M. Veloso"
@@ -90,12 +89,11 @@ zhen:
     excerpt: |
          AI Research Lead, J.P. Morgan AI Research
     
----
--->
+--- -->
 KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
-<!--
 
-<table class="tg">
+
+<!-- <table class="tg">
 <tbody>
   <tr>
     <th class="tg-feht">9:00am</th>
@@ -201,7 +199,7 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
 {% include feature_row id="zhen" type="left" %}
 
 
-</section>
+</section> -->
 <!--
 <a id="Anne_Washington"></a>
 ## Anne Washington
@@ -210,4 +208,3 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
 > **Abstract:** TBD
 > **Biography:** Anne L. Washington is Public Interest Technologist serving as an Assistant Professor of Data Policy at the NYU Steinhardt School. Her expertise on public sector information currently addresses the emerging governance needs of data science. The National Science Foundation has funded her research multiple times including a prestigious 5-year NSF CAREER grant on open government data. Her data-intensive projects draw on both interpretive research methods and computational text analysis. She holds an undergraduate degree in computer science from Brown University and a doctorate in Information Systems and Technology Management from  The George Washington University  School of Business.
   -->
--->
