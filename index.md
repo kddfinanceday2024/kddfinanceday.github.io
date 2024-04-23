@@ -35,14 +35,7 @@ organizers_row_second:
     btn_label: "Homepage"
     btn_class: "btn--primary"
     
-sponsorship:
-  - image_path: assets/images/nec.png
-    alt: "NEC Laboratories America, Inc. (NEC Labs)"
-    title: "NEC Laboratories America, Inc. (NEC Labs)"
-    excerpt: ""
-    url: "https://www.nec-labs.com"
-    btn_label: "Homepage"
-    btn_class: "btn--primary"
+
     
 ---
 <br/>
