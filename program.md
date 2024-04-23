@@ -1,13 +1,16 @@
 ---
 title: Program
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 classes: wide
 author_profile: false
+---
 
-<!-- keynotespeakers:
+<!--
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+keynotespeakers:
   - image_path: assets/images/manuela.png
     alt: "Manuela M. Veloso"
     title: "Manuela M. Veloso"
@@ -88,12 +91,13 @@ zhen:
     url: "https://www.linkedin.com/in/zhenzengzz/"
     excerpt: |
          AI Research Lead, J.P. Morgan AI Research
-    
---- -->
+
+-->
+
 KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
 
-
-<!-- <table class="tg">
+<!--
+<table class="tg">
 <tbody>
   <tr>
     <th class="tg-feht">9:00am</th>
@@ -199,7 +203,8 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
 {% include feature_row id="zhen" type="left" %}
 
 
-</section> -->
+</section>
+-->
 <!--
 <a id="Anne_Washington"></a>
 ## Anne Washington
