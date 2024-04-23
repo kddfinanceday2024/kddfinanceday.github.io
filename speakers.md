@@ -7,7 +7,7 @@ layout: single
 classes: wide
 author_profile: false
 
-keynotespeakers:
+<!-- keynotespeakers:
   - image_path: assets/images/speaker1.png
     alt: "Manuela M. Veloso"
     title: "Manuela M. Veloso"
@@ -111,4 +111,4 @@ zhen:
 {% include feature_row id="zhen" type="left" %}
 
 
-</section>
+</section> -->
