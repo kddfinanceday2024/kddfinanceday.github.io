@@ -1,13 +1,16 @@
 ---
 title: Speakers
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 classes: wide
 author_profile: false
+---
 
-<!-- keynotespeakers:
+
+<!--
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+keynotespeakers:
   - image_path: assets/images/speaker1.png
     alt: "Manuela M. Veloso"
     title: "Manuela M. Veloso"
@@ -90,18 +93,20 @@ zhen:
     url: "https://www.linkedin.com/in/zhenzengzz/"
     excerpt: |
          AI Research Lead, J.P. Morgan AI Research
-    
+-->
 
- 
----
 <br/>
 <section class="organizers" markdown="1">
+  
 ### Keynote Speakers
+<!--
 {% include feature_row id="keynotespeakers" type="left" %}
 {% include feature_row id="lunchtimespeaker" type="left" %}
 {% include feature_row id="afternoonspeaker" type="left" %}
-
+-->
+  
 ### Invited Speakers
+<!--
 {% include feature_row id="dhagash" type="left" %}
 {% include feature_row id="an" type="left" %}
 {% include feature_row id="ron" type="left" %}
@@ -109,6 +114,6 @@ zhen:
 {% include feature_row id="jay" type="left" %}
 {% include feature_row id="gregor" type="left" %}
 {% include feature_row id="zhen" type="left" %}
+-->
+</section>
 
-
-</section> -->
