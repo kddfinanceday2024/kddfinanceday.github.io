@@ -5,6 +5,19 @@ classes: wide
 author_profile: false
 ---
 
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+keynotespeakers:
+  - image_path: assets/images/avanidhar.jpg
+    alt: "Avanidhar Subrahmanyam"
+    title: "Avanidhar Subrahmanyam"
+    url: "https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/subrahmanyam"
+    excerpt: |
+         Distinguished Professor of Finance, UCLA  \
+         Goldyne and Irwin Hearsh Chair in Money and Banking  \
+
 KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
 
 
@@ -81,7 +94,7 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     <td class="tg-feht">5:30pm</td>
     <td class="tg-feht">5:40pm</td>
     <td class="tg-feht">Closing Remarks</td>
-    <td class="tg-feht"><a href="http://www.plg.inf.uc3m.es/~dborrajo/">Daniel Borrajo</a>/<a href="https://web.njit.edu/~gwang/">Grace Wang</a> (J.P.Morgan/NJIT)</td>
+    <td class="tg-feht"><a href="http://www.plg.inf.uc3m.es/~dborrajo/">Daniel Borrajo</a>/<a href="https://web.njit.edu/~gwang/">Grace Wang</a> (J.P.Morgan Chase/NJIT)</td>
   </tr>
 </tbody>
 </table>
@@ -91,9 +104,7 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
 <section class="organizers" markdown="1">
   
 ### Keynote Speakers
-<!-- {% include feature_row id="keynotespeakers" type="left" %}
-{% include feature_row id="lunchtimespeaker" type="left" %}
-{% include feature_row id="afternoonspeaker" type="left" %} -->
+{% include feature_row id="keynotespeakers" type="left" %}
 
 ### Invited Speakers
 <!-- {% include feature_row id="dhagash" type="left" %}
