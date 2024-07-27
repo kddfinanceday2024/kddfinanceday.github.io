@@ -15,7 +15,8 @@ keynotespeakers:
     excerpt: |
          Distinguished Professor of Finance, UCLA  \
          Goldyne and Irwin Hearsh Chair in Money and Banking  \
-
+    
+---
 KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
 
 
