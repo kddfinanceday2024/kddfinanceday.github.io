@@ -20,12 +20,12 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     <td class="tg-73oq">9:10am</td>
     <td class="tg-73oq">10:10am</td>
     <td class="tg-73oq">Morning Keynote</td>
-    <td class="tg-73oq"><b><a href="https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/subrahmanyam">Avanidhar Subrahmanyam</a> (UCLA)</b></td>
+    <td class="tg-73oq"><b>Avanidhar Subrahmanyam</a> (UCLA)</b></td>
   </tr>
   <tr>
     <td class="tg-73oq">10:10am</td>
     <td class="tg-73oq">10:40am</td>
-    <td class="tg-73oq">Invited Talk 1</td>
+    <td class="tg-73oq">Invited Talk</td>
     <td class="tg-73oq">Claudia Perlich (Two Sigma, US)</td>
   </tr>
   <tr>
@@ -78,10 +78,10 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     </td>
   </tr>
   <tr>
-    <td class="tg-73oq">5:30pm</td>
-    <td class="tg-73oq">5:40pm</td>
-    <td class="tg-73oq">Closing Remarks</td>
-    <td class="tg-73oq"><a href="http://www.plg.inf.uc3m.es/~dborrajo/">Daniel Borrajo</a>/<a href="https://web.njit.edu/~gwang/">Grace Wang</a> (J.P.Morgan/NJIT)</td>
+    <td class="tg-feht">5:30pm</td>
+    <td class="tg-feht">5:40pm</td>
+    <td class="tg-feht">Closing Remarks</td>
+    <td class="tg-feht"><a href="http://www.plg.inf.uc3m.es/~dborrajo/">Daniel Borrajo</a>/<a href="https://web.njit.edu/~gwang/">Grace Wang</a> (J.P.Morgan/NJIT)</td>
   </tr>
 </tbody>
 </table>
