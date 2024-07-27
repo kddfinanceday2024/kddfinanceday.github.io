@@ -14,7 +14,7 @@ keynotespeakers:
     url: "https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/subrahmanyam"
     excerpt: |
          Distinguished Professor of Finance, UCLA  \
-         Goldyne and Irwin Hearsh Chair in Money and Banking  \
+         Goldyne and Irwin Hearsh Chair in Money and Banking
     
 ---
 KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
