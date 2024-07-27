@@ -11,14 +11,13 @@ author_profile: false
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 keynotespeakers:
-  - image_path: assets/images/manuela.png
-    alt: "Manuela M. Veloso"
-    title: "Manuela M. Veloso"
-    url: "https://en.wikipedia.org/wiki/Manuela_M._Veloso"
+  - image_path: assets/images/avanidhar.jpg
+    alt: "Avanidhar Subrahmanyam"
+    title: "Avanidhar Subrahmanyam"
+    url: "https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/subrahmanyam"
     excerpt: |
-         Head of J.P. Morgan AI Research  \
-         Herbert A. Simon University Professor, Carnegie Mellon University  \
-         NAE member; Former President, AAAI; Fellow,  ACM, AAAI, IEEE, and AAAS 
+         Distinguished Professor of Finance, University of California, Los Angeles  \
+         Goldyne and Irwin Hearsh Chair in Money and Banking  \
 
 lunchtimespeaker:
   - image_path: assets/images/subbarao1.jpg
@@ -101,17 +100,17 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
 <tbody>
   <tr>
     <th class="tg-feht">9:00am</th>
-    <th class="tg-feht">9:15am</th>
+    <th class="tg-feht">9:10am</th>
     <th class="tg-feht">Opening Remarks</th>
-    <th class="tg-feht"><a href="http://www.plg.inf.uc3m.es/~dborrajo/">Daniel Borrajo</a>/<a href="https://www.linkedin.com/in/tuckerbalch/">Tucker Balch</a> (J.P.Morgan Chase)</th>
+    <th class="tg-feht"><a href="https://web.njit.edu/~gwang/">Grace Wang</a>/<a href="http://www.plg.inf.uc3m.es/~dborrajo/">Daniel Borrajo</a> (NJIT/J.P.Morgan Chase)</th>
   </tr>
   <tr>
-    <td class="tg-73oq">9:15am</td>
-    <td class="tg-73oq">10:15am</td>
+    <td class="tg-73oq">9:10am</td>
+    <td class="tg-73oq">10:10am</td>
     <td class="tg-73oq">Morning Keynote</td>
-    <td class="tg-73oq"><b><a href="https://en.wikipedia.org/wiki/Manuela_M._Veloso">Manuel Veloso</a> (J.P.Morgan Chase/CMU)</b>
-      <br>&nbsp;&nbsp;<em><b>Title: Human-AI Interaction in Finance: A Learning Journey</b></em> 
-      <br><br><i>Host: Daniel Borrajo</i>
+    <td class="tg-73oq"><b><a href="https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/subrahmanyam">Avanidhar Subrahmanyam</a> (UCLA)</b>
+      <br>&nbsp;&nbsp;<em><b>Title: </b></em> 
+      <!-- <br><br><i>Host: Daniel Borrajo</i> -->
     </td>
   </tr>
   <tr>
