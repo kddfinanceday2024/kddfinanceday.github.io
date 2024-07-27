@@ -29,82 +29,53 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     <td class="tg-73oq">Claudia Perlich (Two Sigma, US)</td>
   </tr>
   <tr>
-    <td class="tg-73oq">10:40am</td>
-    <td class="tg-73oq">11:00am</td>
-    <td class="tg-73oq">Coffee Break</td>
-    <td class="tg-73oq"></td>
+    <td class="tg-vwhn">10:40am</td>
+    <td class="tg-vwhn">11:00am</td>
+    <td class="tg-vwhn">Coffee Break</td>
+    <td class="tg-vwhn"></td>
   </tr>
   <tr>
     <td class="tg-73oq">11:00am</td>
-    <td class="tg-73oq">11:30am</td>
-    <td class="tg-73oq">Invited Talk 2</td>
-    <td class="tg-73oq">Eyke Hüllermeier (LMU Munich, Germany)</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">11:30am</td>
-    <td class="tg-73oq">12:00pm</td>
-    <td class="tg-73oq">Invited Talk 3</td>
-    <td class="tg-73oq">Senthil Kumar (Capital One, US)</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">12:00pm</td>
-    <td class="tg-73oq">12:30pm</td>
-    <td class="tg-73oq">Invited Talk 4</td>
-    <td class="tg-73oq">Jundong Li (University of Virginia, US)</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">12:30pm</td>
     <td class="tg-73oq">1:00pm</td>
-    <td class="tg-73oq">Invited Talk 5</td>
-    <td class="tg-73oq">Yongjae Lee (UNIST, South Korea)</td>
+    <td class="tg-73oq">Invited Talks</td>
+    <td class="tg-73oq">
+      Eyke Hüllermeier (LMU Munich, Germany)
+      <br>Senthil Kumar (Capital One, US)
+      <br>Jundong Li (University of Virginia, US)
+      <br>Yongjae Lee (UNIST, South Korea)
+    </td>
   </tr>
   <tr>
-    <td class="tg-73oq">1:00pm</td>
-    <td class="tg-73oq">2:00pm</td>
-    <td class="tg-73oq">Lunch Time</td>
-    <td class="tg-73oq"></td>
+    <td class="tg-vwhn">1:00pm</td>
+    <td class="tg-vwhn">2:00pm</td>
+    <td class="tg-vwhn">Lunch Time</td>
+    <td class="tg-vwhn"></td>
   </tr>
   <tr>
     <td class="tg-73oq">2:00pm</td>
-    <td class="tg-73oq">2:30pm</td>
-    <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq">Henrike Mueller (Financial Conduct Authority, UK)</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">2:30pm</td>
-    <td class="tg-73oq">3:00pm</td>
-    <td class="tg-73oq">Invited Talk 6</td>
-    <td class="tg-73oq">Stefan Zohren (University of Oxford, UK)</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">3:00pm</td>
-    <td class="tg-73oq">3:30pm</td>
-    <td class="tg-73oq">Invited Talk 7</td>
-    <td class="tg-73oq">Dumitru Roman (SINTEF ICT & Univ. of Norway)</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">3:30pm</td>
     <td class="tg-73oq">4:00pm</td>
-    <td class="tg-73oq">Invited Talk 8</td>
-    <td class="tg-73oq">Kubilay Atasu (Delft University of Technology, Netherlands)</td>
+    <td class="tg-73oq">Invited Talks</td>
+    <td class="tg-73oq">
+      Henrike Mueller (Financial Conduct Authority, UK)
+      <br>Stefan Zohren (University of Oxford, UK)
+      <br>Dumitru Roman (SINTEF ICT & Univ. of Norway)
+      <br>Kubilay Atasu (Delft University of Technology, Netherlands)
+    </td>
   </tr>
   <tr>
-    <td class="tg-73oq">4:00pm</td>
-    <td class="tg-73oq">4:30pm</td>
-    <td class="tg-73oq">Coffee Break</td>
-    <td class="tg-73oq"></td>
+    <td class="tg-vwhn">4:00pm</td>
+    <td class="tg-vwhn">4:30pm</td>
+    <td class="tg-vwhn">Coffee Break</td>
+    <td class="tg-vwhn"></td>
   </tr>
   <tr>
     <td class="tg-73oq">4:30pm</td>
-    <td class="tg-73oq">5:00pm</td>
-    <td class="tg-73oq">Invited Talk 9</td>
-    <td class="tg-73oq">Xiao-Ming Jenny Wu (Hong Kong Poly University)</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">5:00pm</td>
     <td class="tg-73oq">5:30pm</td>
-    <td class="tg-73oq">Invited Talk 10</td>
-    <td class="tg-73oq">Milos Blagojevic (BlackRock, Serbia)</td>
+    <td class="tg-73oq">Invited Talks</td>
+    <td class="tg-73oq">
+      Xiao-Ming Jenny Wu (Hong Kong Poly University)
+      <br>Milos Blagojevic (BlackRock, Serbia)
+    </td>
   </tr>
   <tr>
     <td class="tg-73oq">5:30pm</td>
