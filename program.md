@@ -144,9 +144,9 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     <td class="tg-73oq">Invited Talks</td>
     <td class="tg-73oq">
       <a href="https://www.kiml.ifi.lmu.de/people/professors/huellermeier/index.html">Eyke Hüllermeier (LMU Munich)</a>
-      <br>Senthil Kumar (Capital One)
-      <br>Jundong Li (University of Virginia)
-      <br>Yongjae Lee (UNIST)
+      <br><a href="https://www.linkedin.com/in/senthil-kumar-24b0419/">Senthil Kumar (Capital One)</a>
+      <br><a href="https://engineering.virginia.edu/faculty/jundong-li">Jundong Li (University of Virginia)</a>
+      <br><a href="https://unist-felab.notion.site/Yongjae-Lee-Ph-D-f43bbcebc05a4697b56b42db61e3e221">Yongjae Lee (UNIST)</a>
     </td>
   </tr>
   <tr>
@@ -159,16 +159,16 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     <td class="tg-73oq">2:00pm</td>
     <td class="tg-73oq">2:30pm</td>
     <td class="tg-73oq">Featured Talk</td>
-    <td class="tg-73oq"><b>Henrike Mueller (Financial Conduct Authority, UK)</b></td>
+    <td class="tg-73oq"><b><a href="https://www.linkedin.com/in/dr-henrike-mueller-38051429/?originalSubdomain=uk">Henrike Mueller (Financial Conduct Authority, UK)</a></b></td>
   </tr>
   <tr>
     <td class="tg-73oq">2:30pm</td>
     <td class="tg-73oq">4:00pm</td>
     <td class="tg-73oq">Invited Talks</td>
     <td class="tg-73oq">
-      Stefan Zohren (University of Oxford)
-      <br>Dumitru Roman (SINTEF ICT & Univ. of Norway)
-      <br>Kubilay Atasu (Delft University of Technology)
+      <a href="https://eng.ox.ac.uk/people/stefan-zohren/">Stefan Zohren (University of Oxford)</a>
+      <br><a href="https://www.oslomet.no/en/about/employee/dumitrur/">Dumitru Roman (SINTEF ICT & Univ. of Norway)</a>
+      <br><a href="https://www.tudelft.nl/en/2023/ewi/st/dr-kubilay-atasus-appointment-as-associate-professor">Kubilay Atasu (Delft University of Technology)</a>
     </td>
   </tr>
   <tr>
@@ -182,8 +182,8 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     <td class="tg-73oq">5:30pm</td>
     <td class="tg-73oq">Invited Talks</td>
     <td class="tg-73oq">
-      Xiao-Ming Jenny Wu (Hong Kong Poly University)
-      <br>Milos Blagojevic (BlackRock)
+      <a href="https://www4.comp.polyu.edu.hk/~csxmwu/">Xiao-Ming Wu (Hong Kong Poly University)</a>
+      <br><a href="https://www.linkedin.com/in/milosblagojevic/?originalSubdomain=rs">Milos Blagojevic (BlackRock)</a>a
     </td>
   </tr>
   <tr>
