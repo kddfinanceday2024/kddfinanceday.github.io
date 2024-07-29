@@ -23,7 +23,90 @@ featuredspeakers:
     url: "https://www.linkedin.com/in/dr-henrike-mueller-38051429/?originalSubdomain=uk"
     excerpt: |
          AI Strategy Team Manager, Financial Conduct Authority, UK
-    
+
+Claudia Perlich
+
+image_path: assets/images/claudia.jpg
+alt: "Claudia Perlich"
+title: "Claudia Perlich"
+url: ""
+excerpt: |
+MD Data Scientist, Two Sigma, US
+Eyke Hüllermeier
+
+image_path: assets/images/eyke.jpg
+alt: "Eyke Hüllermeier"
+title: "Eyke Hüllermeier"
+url: ""
+excerpt: |
+Professor, LMU, Germany
+Senthil Kumar
+
+image_path: assets/images/senthil.jpg
+alt: "Senthil Kumar"
+title: "Senthil Kumar"
+url: ""
+excerpt: |
+Head of Emerging Research, Capital One, US
+Stefan Zohren
+
+image_path: assets/images/stefan.jpg
+alt: "Stefan Zohren"
+title: "Stefan Zohren"
+url: ""
+excerpt: |
+Associate Professor, University of Oxford, UK
+Research Fellow & Associate, Oxford-Man Institute, UK
+Dumitru Roman
+
+image_path: assets/images/dumitru.jpg
+alt: "Dumitru Roman"
+title: "Dumitru Roman"
+url: ""
+excerpt: |
+Senior Research Scientist, SINTEF ICT & Univ., Norway
+Professor, OsloMet, Norway
+Kubilay Atasu
+
+image_path: assets/images/kubilay.jpg
+alt: "Kubilay Atasu"
+title: "Kubilay Atasu"
+url: ""
+excerpt: |
+Associate Professor, Delft University of Technology, Netherlands
+Xiao-Ming Wu
+
+image_path: assets/images/xiaoming.jpg
+alt: "Xiao-Ming Wu"
+title: "Xiao-Ming Wu"
+url: ""
+excerpt: |
+Associate Professor, Hong Kong Polytechnic University, HK
+Yongjae Lee
+
+image_path: assets/images/yongjae.jpg
+alt: "Yongjae Lee"
+title: "Yongjae Lee"
+url: ""
+excerpt: |
+Associate Professor, UNIST, South Korea
+Jundong Li
+
+image_path: assets/images/jundong.jpg
+alt: "Jundong Li"
+title: "Jundong Li"
+url: ""
+excerpt: |
+Assistant Professor, University of Virginia, US
+Milos Blagojevic
+
+image_path: assets/images/milos.jpg
+alt: "Milos Blagojevic"
+title: "Milos Blagojevic"
+url: ""
+excerpt: |
+Technical Fellow and Director, BlackRock, Serbia
+
 ---
 KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
 
