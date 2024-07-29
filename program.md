@@ -14,7 +14,15 @@ keynotespeakers:
     url: "https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/subrahmanyam"
     excerpt: |
          Distinguished Professor of Finance, UCLA  \
-         Goldyne and Irwin Hearsh Chair in Money and Banking
+         Goldyne and Irwin Hearsh Chair in Money and Banking  \
+
+featuredspeakers:
+  - image_path: assets/images/henrike.jpg
+    alt: "Henrike Mueller"
+    title: "Henrike Mueller"
+    url: "https://www.linkedin.com/in/dr-henrike-mueller-38051429/?originalSubdomain=uk"
+    excerpt: |
+         AI Strategy Team Manager, Financial Conduct Authority, UK
     
 ---
 KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
@@ -102,8 +110,11 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
 <br/>
 <section class="organizers" markdown="1">
   
-### Keynote Speakers
+### Keynote Speaker
 {% include feature_row id="keynotespeakers" type="left" %}
+
+### Featured Speaker
+{% include feature_row id="featuredspeakers" type="left" %}
 
 ### Invited Speakers
 <!-- {% include feature_row id="dhagash" type="left" %}
