@@ -5,95 +5,108 @@ classes: wide
 author_profile: false
 ---
 
-
-<!--
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 keynotespeakers:
-  - image_path: assets/images/speaker1.png
-    alt: "Manuela M. Veloso"
-    title: "Manuela M. Veloso"
-    url: "https://en.wikipedia.org/wiki/Manuela_M._Veloso"
+  - image_path: assets/images/avanidhar.jpg
+    alt: "Avanidhar Subrahmanyam"
+    title: "Avanidhar Subrahmanyam"
+    url: "https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/subrahmanyam"
     excerpt: |
-         Head of J.P. Morgan AI Research  \
-         Herbert A. Simon University Professor, Carnegie Mellon University  \
-         NAE member; Former President, AAAI; Fellow,  ACM, AAAI, IEEE, and AAAS 
+         Distinguished Professor of Finance, UCLA  \
+         Goldyne and Irwin Hearsh Chair in Money and Banking  \
 
-lunchtimespeaker:
-  - image_path: assets/images/speaker2.png
-    alt: "Subbarao Kambhampati"
-    title: "Subbarao Kambhampati"
-    url: "https://rakaposhi.eas.asu.edu"
+featuredspeakers:
+  - image_path: assets/images/henrike.jpg
+    alt: "Henrike Mueller"
+    title: "Henrike Mueller"
+    url: "https://www.linkedin.com/in/dr-henrike-mueller-38051429/?originalSubdomain=uk"
     excerpt: |
-         Professor of Computer Science, Arizona State University  \
-         Former AAAI President; Fellow, ACM, AAAI, AAAS
+         AI Strategy Team Manager, Financial Conduct Authority, UK
 
 
-afternoonspeaker:
-  - image_path: assets/images/speaker3.png
-    alt: "Susan Athey"
-    title: "Susan Athey"
-    url: "https://gsb-faculty.stanford.edu/susan-athey/"
+claudia:
+  - image_path: assets/images/claudia.jpg
+    alt: "Claudia Perlich"
+    title: "Claudia Perlich"
+    url: ""
     excerpt: |
-         The Economics of Technology Professor, Stanford University  \
-         NAS member  \
-         First female winner of the John Bates Clark Medal  \
-         2023 President of the American Economics Association
+         MD Data Scientist, Two Sigma, US
+    
+eyke:
+  - image_path: assets/images/eyke.jpg
+    alt: "Eyke Hüllermeier"
+    title: "Eyke Hüllermeier"
+    url: ""
+    excerpt: |
+         Professor, LMU, Germany
 
-         
-dhagash:
-  - image_path: assets/images/dhagash.jpg
-    alt: "Dhagash Mehtaa"
-    title: "Dhagash Mehta"
-    url: "https://www.linkedin.com/in/dhagash-mehta-ph-d-45000111a/"
+senthil:
+  - image_path: assets/images/senthil.jpg
+    alt: "Senthil Kumar"
+    title: "Senthil Kumar"
+    url: ""
     excerpt: |
-         Head of Applied Machine Learning Research for Investment Management, BlackRock
-an:
-  - image_path: assets/images/boan.jpg
-    alt: "An Bo"
-    title: "An Bo"
-    url: "https://personal.ntu.edu.sg/boan/"
+         Head of Emerging Research, Capital One, US
+
+stefan:
+  - image_path: assets/images/stefan.jpg
+    alt: "Stefan Zohren"
+    title: "Stefan Zohren"
+    url: ""
     excerpt: |
-         President's Council Chair Professor, Nanyang Technological University, Singapore  \
-         Co-Director, Artificial Intelligence Research Institute         
-ron:
-  - image_path: assets/images/ron.png
-    alt: "Ron Bekkerman"
-    title: "Ron Bekkerman"
-    url: "https://www.linkedin.com/in/bekkerman/"
+         Associate Professor, University of Oxford, UK \
+         Research Fellow & Associate, Oxford-Man Institute, UK
+
+dumitru:
+  - image_path: assets/images/dumitru.jpg
+    alt: "Dumitru Roman"
+    title: "Dumitru Roman"
+    url: ""
     excerpt: |
-         Strategic Advisor and former CTO, Cherre
-isaac:
-  - image_path: assets/images/isaac.png
-    alt: "Isaac Tamblyn"
-    title: "Isaac Tamblyn"
-    url: "https://www.linkedin.com/in/itamblyn/"
+         Senior Research Scientist, SINTEF ICT & Univ., Norway \
+         Professor, OsloMet, Norway
+
+kubilay:
+  - image_path: assets/images/kubilay.jpg
+    alt: "Kubilay Atasu"
+    title: "Kubilay Atasu"
+    url: ""
     excerpt: |
-         Machine Learning Manager, Cash App
-         
-jay: 
-  - image_path: assets/images/jay_pujara.jpg
-    alt: "Jay Pujara"
-    title: "Jay Pujara"
-    url: "https://www.jauntslab.org"
+         Associate Professor, Delft University of Technology, Netherlands
+
+xiaoming:
+  - image_path: assets/images/xiaoming.jpg
+    alt: "Xiao-Ming Wu"
+    title: "Xiao-Ming Wu"
+    url: ""
     excerpt: |
-         Director of the Center on Knowledge Graphs, University of Southern California
-gregor:         
-  - image_path: assets/images/gregor.jpg
-    alt: "Gregor Schubert"
-    title: "Gregor Schubert"
-    url: "https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/gregor-schubert"
+         Associate Professor, Hong Kong Polytechnic University, HK
+
+yongjae:
+  - image_path: assets/images/yongjae.jpg
+    alt: "Yongjae Lee"
+    title: "Yongjae Lee"
+    url: ""
     excerpt: |
-         Assistant Professor of Finance, University of California, Los Angeles
-zhen:
-  - image_path: assets/images/zhen.jpg
-    alt: "Zhen Zeng"
-    title: "Zhen Zeng"
-    url: "https://www.linkedin.com/in/zhenzengzz/"
+         Associate Professor, UNIST, South Korea
+
+jundong:
+  - image_path: assets/images/jundong.jpg
+    alt: "Jundong Li"
+    title: "Jundong Li"
+    url: ""
     excerpt: |
-         AI Research Lead, J.P. Morgan AI Research
--->
+         Assistant Professor, University of Virginia, US
+
+milos:
+  - image_path: assets/images/milos.jpg
+    alt: "Milos Blagojevic"
+    title: "Milos Blagojevic"
+    url: ""
+    excerpt: |
+         Technical Fellow and Director, BlackRock, Serbia
 
 <br/>
 <section class="organizers" markdown="1">
