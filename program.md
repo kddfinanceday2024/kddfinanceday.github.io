@@ -24,88 +24,88 @@ featuredspeakers:
     excerpt: |
          AI Strategy Team Manager, Financial Conduct Authority, UK
 
-Claudia Perlich
 
-image_path: assets/images/claudia.jpg
-alt: "Claudia Perlich"
-title: "Claudia Perlich"
-url: ""
-excerpt: |
-MD Data Scientist, Two Sigma, US
-Eyke Hüllermeier
+claudia:
+  - image_path: assets/images/claudia.jpg
+    alt: "Claudia Perlich"
+    title: "Claudia Perlich"
+    url: ""
+    excerpt: |
+         MD Data Scientist, Two Sigma, US
+    
+eyke:
+  - image_path: assets/images/eyke.jpg
+    alt: "Eyke Hüllermeier"
+    title: "Eyke Hüllermeier"
+    url: ""
+    excerpt: |
+         Professor, LMU, Germany
 
-image_path: assets/images/eyke.jpg
-alt: "Eyke Hüllermeier"
-title: "Eyke Hüllermeier"
-url: ""
-excerpt: |
-Professor, LMU, Germany
-Senthil Kumar
+senthil:
+  - image_path: assets/images/senthil.jpg
+    alt: "Senthil Kumar"
+    title: "Senthil Kumar"
+    url: ""
+    excerpt: |
+         Head of Emerging Research, Capital One, US
 
-image_path: assets/images/senthil.jpg
-alt: "Senthil Kumar"
-title: "Senthil Kumar"
-url: ""
-excerpt: |
-Head of Emerging Research, Capital One, US
-Stefan Zohren
+stefan:
+  - image_path: assets/images/stefan.jpg
+    alt: "Stefan Zohren"
+    title: "Stefan Zohren"
+    url: ""
+    excerpt: |
+         Associate Professor, University of Oxford, UK \
+         Research Fellow & Associate, Oxford-Man Institute, UK
 
-image_path: assets/images/stefan.jpg
-alt: "Stefan Zohren"
-title: "Stefan Zohren"
-url: ""
-excerpt: |
-Associate Professor, University of Oxford, UK
-Research Fellow & Associate, Oxford-Man Institute, UK
-Dumitru Roman
+dumitru:
+  - image_path: assets/images/dumitru.jpg
+    alt: "Dumitru Roman"
+    title: "Dumitru Roman"
+    url: ""
+    excerpt: |
+         Senior Research Scientist, SINTEF ICT & Univ., Norway \
+         Professor, OsloMet, Norway
 
-image_path: assets/images/dumitru.jpg
-alt: "Dumitru Roman"
-title: "Dumitru Roman"
-url: ""
-excerpt: |
-Senior Research Scientist, SINTEF ICT & Univ., Norway
-Professor, OsloMet, Norway
-Kubilay Atasu
+kubilay:
+  - image_path: assets/images/kubilay.jpg
+    alt: "Kubilay Atasu"
+    title: "Kubilay Atasu"
+    url: ""
+    excerpt: |
+         Associate Professor, Delft University of Technology, Netherlands
 
-image_path: assets/images/kubilay.jpg
-alt: "Kubilay Atasu"
-title: "Kubilay Atasu"
-url: ""
-excerpt: |
-Associate Professor, Delft University of Technology, Netherlands
-Xiao-Ming Wu
+xiaoming:
+  - image_path: assets/images/xiaoming.jpg
+    alt: "Xiao-Ming Wu"
+    title: "Xiao-Ming Wu"
+    url: ""
+    excerpt: |
+         Associate Professor, Hong Kong Polytechnic University, HK
 
-image_path: assets/images/xiaoming.jpg
-alt: "Xiao-Ming Wu"
-title: "Xiao-Ming Wu"
-url: ""
-excerpt: |
-Associate Professor, Hong Kong Polytechnic University, HK
-Yongjae Lee
+yongjae:
+  - image_path: assets/images/yongjae.jpg
+    alt: "Yongjae Lee"
+    title: "Yongjae Lee"
+    url: ""
+    excerpt: |
+         Associate Professor, UNIST, South Korea
 
-image_path: assets/images/yongjae.jpg
-alt: "Yongjae Lee"
-title: "Yongjae Lee"
-url: ""
-excerpt: |
-Associate Professor, UNIST, South Korea
-Jundong Li
+jundong:
+  - image_path: assets/images/jundong.jpg
+    alt: "Jundong Li"
+    title: "Jundong Li"
+    url: ""
+    excerpt: |
+         Assistant Professor, University of Virginia, US
 
-image_path: assets/images/jundong.jpg
-alt: "Jundong Li"
-title: "Jundong Li"
-url: ""
-excerpt: |
-Assistant Professor, University of Virginia, US
-Milos Blagojevic
-
-image_path: assets/images/milos.jpg
-alt: "Milos Blagojevic"
-title: "Milos Blagojevic"
-url: ""
-excerpt: |
-Technical Fellow and Director, BlackRock, Serbia
+milos:
+  - image_path: assets/images/milos.jpg
+    alt: "Milos Blagojevic"
+    title: "Milos Blagojevic"
+    url: ""
+    excerpt: |
+         Technical Fellow and Director, BlackRock, Serbia
 
 ---
 KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
@@ -200,13 +200,16 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
 {% include feature_row id="featuredspeakers" type="left" %}
 
 ### Invited Speakers
-<!-- {% include feature_row id="dhagash" type="left" %}
-{% include feature_row id="an" type="left" %}
-{% include feature_row id="ron" type="left" %}
-{% include feature_row id="isaac" type="left" %}
-{% include feature_row id="jay" type="left" %}
-{% include feature_row id="gregor" type="left" %}
-{% include feature_row id="zhen" type="left" %} -->
+{% include feature_row id="claudia" type="left" %}
+{% include feature_row id="eyke" type="left" %}
+{% include feature_row id="senthil" type="left" %}
+{% include feature_row id="stefan" type="left" %}
+{% include feature_row id="dumitru" type="left" %}
+{% include feature_row id="kubilay" type="left" %}
+{% include feature_row id="xiaoming" type="left" %}
+{% include feature_row id="yongjae" type="left" %}
+{% include feature_row id="jundong" type="left" %}
+{% include feature_row id="milos" type="left" %}
 
 
 </section>
