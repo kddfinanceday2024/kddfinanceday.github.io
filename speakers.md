@@ -13,7 +13,7 @@ keynotespeakers:
     title: "Avanidhar Subrahmanyam"
     url: "https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/subrahmanyam"
     excerpt: |
-         Distinguished Professor of Finance, UCLA  \
+         Distinguished Professor of Finance, University of California, Los Angeles  \
          Goldyne and Irwin Hearsh Chair in Money and Banking
 
 featuredspeakers:
@@ -22,90 +22,91 @@ featuredspeakers:
     title: "Henrike Mueller"
     url: "https://www.linkedin.com/in/dr-henrike-mueller-38051429/?originalSubdomain=uk"
     excerpt: |
-         AI Strategy Team Manager, Financial Conduct Authority, UK
+         AI Strategy Team Manager, Financial Conduct Authority
 
 
 claudia:
   - image_path: assets/images/claudia.jpg
     alt: "Claudia Perlich"
     title: "Claudia Perlich"
-    url: ""
+    url: "https://twosigmaventures.com/our-team/profile/claudia-perlich/"
     excerpt: |
-         MD Data Scientist, Two Sigma, US
+         MD Data Scientist, Two Sigma
     
 eyke:
   - image_path: assets/images/eyke.jpg
     alt: "Eyke Hüllermeier"
     title: "Eyke Hüllermeier"
-    url: ""
+    url: "https://www.kiml.ifi.lmu.de/people/professors/huellermeier/index.html"
     excerpt: |
-         Professor, LMU, Germany
+         Professor, Ludwig-Maximilians-Universität München  \
+         Chair of Artificial Intelligence and Machine Learning
 
 senthil:
   - image_path: assets/images/senthil.jpg
     alt: "Senthil Kumar"
     title: "Senthil Kumar"
-    url: ""
+    url: "https://www.linkedin.com/in/senthil-kumar-24b0419/"
     excerpt: |
-         Head of Emerging Research, Capital One, US
+         Head of Emerging Research, Capital One
 
 stefan:
   - image_path: assets/images/stefan.jpg
     alt: "Stefan Zohren"
     title: "Stefan Zohren"
-    url: ""
+    url: "https://eng.ox.ac.uk/people/stefan-zohren/"
     excerpt: |
-         Associate Professor, University of Oxford, UK \
-         Research Fellow & Associate, Oxford-Man Institute, UK
+         Associate Professor, University of Oxford \
+         Research Fellow & Associate, Oxford-Man Institute
 
 dumitru:
   - image_path: assets/images/dumitru.jpg
     alt: "Dumitru Roman"
     title: "Dumitru Roman"
-    url: ""
+    url: "https://www.oslomet.no/en/about/employee/dumitrur/"
     excerpt: |
-         Senior Research Scientist, SINTEF ICT & Univ., Norway \
-         Professor, OsloMet, Norway
+         Senior Research Scientist, SINTEF ICT & Univ. \
+         Professor, Oslo Metropolitan University
 
 kubilay:
   - image_path: assets/images/kubilay.jpg
     alt: "Kubilay Atasu"
     title: "Kubilay Atasu"
-    url: ""
+    url: "https://www.tudelft.nl/en/2023/ewi/st/dr-kubilay-atasus-appointment-as-associate-professor"
     excerpt: |
-         Associate Professor, Delft University of Technology, Netherlands
+         Associate Professor, Delft University of Technology
 
 xiaoming:
   - image_path: assets/images/xiaoming.jpg
     alt: "Xiao-Ming Wu"
     title: "Xiao-Ming Wu"
-    url: ""
+    url: "https://www4.comp.polyu.edu.hk/~csxmwu/"
     excerpt: |
-         Associate Professor, Hong Kong Polytechnic University, HK
+         Associate Professor, Hong Kong Polytechnic University
 
 yongjae:
   - image_path: assets/images/yongjae.jpg
     alt: "Yongjae Lee"
     title: "Yongjae Lee"
-    url: ""
+    url: "https://unist-felab.notion.site/Yongjae-Lee-Ph-D-f43bbcebc05a4697b56b42db61e3e221"
     excerpt: |
-         Associate Professor, UNIST, South Korea
+         Associate Professor, Ulsan National Institute of Science and Technology
 
 jundong:
   - image_path: assets/images/jundong.jpg
     alt: "Jundong Li"
     title: "Jundong Li"
-    url: ""
+    url: "https://engineering.virginia.edu/faculty/jundong-li"
     excerpt: |
-         Assistant Professor, University of Virginia, US
+         Assistant Professor, University of Virginia
 
 milos:
   - image_path: assets/images/milos.jpg
     alt: "Milos Blagojevic"
     title: "Milos Blagojevic"
-    url: ""
+    url: "https://www.linkedin.com/in/milosblagojevic/?originalSubdomain=rs"
     excerpt: |
-         Technical Fellow and Director, BlackRock, Serbia
+         Technical Fellow and Director, BlackRock
 
 ---
 <br/>
