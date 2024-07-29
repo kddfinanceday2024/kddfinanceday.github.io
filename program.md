@@ -124,13 +124,13 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     <td class="tg-73oq">9:10am</td>
     <td class="tg-73oq">10:10am</td>
     <td class="tg-73oq">Keynote Talk</td>
-    <td class="tg-73oq"><b>Avanidhar Subrahmanyam (UCLA)</b></td>
+    <td class="tg-73oq"><b><a href="https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/subrahmanyam">Avanidhar Subrahmanyam (UCLA)</a></b></td>
   </tr>
   <tr>
     <td class="tg-73oq">10:10am</td>
     <td class="tg-73oq">10:40am</td>
     <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq">Claudia Perlich (Two Sigma, US)</td>
+    <td class="tg-73oq"><a href="https://www.linkedin.com/in/dr-henrike-mueller-38051429/?originalSubdomain=uk">Claudia Perlich (Two Sigma)</a></td>
   </tr>
   <tr>
     <td class="tg-vwhn">10:40am</td>
@@ -143,10 +143,10 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     <td class="tg-73oq">1:00pm</td>
     <td class="tg-73oq">Invited Talks</td>
     <td class="tg-73oq">
-      Eyke Hüllermeier (LMU Munich, Germany)
-      <br>Senthil Kumar (Capital One, US)
-      <br>Jundong Li (University of Virginia, US)
-      <br>Yongjae Lee (UNIST, South Korea)
+      <a href="https://www.kiml.ifi.lmu.de/people/professors/huellermeier/index.html">Eyke Hüllermeier (LMU Munich)</a>
+      <br>Senthil Kumar (Capital One)
+      <br>Jundong Li (University of Virginia)
+      <br>Yongjae Lee (UNIST)
     </td>
   </tr>
   <tr>
@@ -166,9 +166,9 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     <td class="tg-73oq">4:00pm</td>
     <td class="tg-73oq">Invited Talks</td>
     <td class="tg-73oq">
-      <br>Stefan Zohren (University of Oxford, UK)
+      Stefan Zohren (University of Oxford)
       <br>Dumitru Roman (SINTEF ICT & Univ. of Norway)
-      <br>Kubilay Atasu (Delft University of Technology, Netherlands)
+      <br>Kubilay Atasu (Delft University of Technology)
     </td>
   </tr>
   <tr>
@@ -183,7 +183,7 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     <td class="tg-73oq">Invited Talks</td>
     <td class="tg-73oq">
       Xiao-Ming Jenny Wu (Hong Kong Poly University)
-      <br>Milos Blagojevic (BlackRock, Serbia)
+      <br>Milos Blagojevic (BlackRock)
     </td>
   </tr>
   <tr>
