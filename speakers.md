@@ -1,12 +1,12 @@
 ---
 title: Speakers
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 classes: wide
 author_profile: false
 
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 keynotespeakers:
   - image_path: assets/images/avanidhar.jpg
     alt: "Avanidhar Subrahmanyam"
@@ -107,6 +107,7 @@ milos:
     excerpt: |
          Technical Fellow and Director, BlackRock, Serbia
 
+---
 <br/>
 <section class="organizers" markdown="1">
   
