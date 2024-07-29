@@ -3,7 +3,6 @@ title: Speakers
 layout: single
 classes: wide
 author_profile: false
----
 
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
@@ -111,22 +110,23 @@ milos:
 <br/>
 <section class="organizers" markdown="1">
   
-### Keynote Speakers
-<!--
+### Keynote Speaker
 {% include feature_row id="keynotespeakers" type="left" %}
-{% include feature_row id="lunchtimespeaker" type="left" %}
-{% include feature_row id="afternoonspeaker" type="left" %}
--->
-  
+
+### Featured Speaker
+{% include feature_row id="featuredspeakers" type="left" %}
+
 ### Invited Speakers
-<!--
-{% include feature_row id="dhagash" type="left" %}
-{% include feature_row id="an" type="left" %}
-{% include feature_row id="ron" type="left" %}
-{% include feature_row id="isaac" type="left" %}
-{% include feature_row id="jay" type="left" %}
-{% include feature_row id="gregor" type="left" %}
-{% include feature_row id="zhen" type="left" %}
--->
+{% include feature_row id="claudia" type="left" %}
+{% include feature_row id="eyke" type="left" %}
+{% include feature_row id="senthil" type="left" %}
+{% include feature_row id="stefan" type="left" %}
+{% include feature_row id="dumitru" type="left" %}
+{% include feature_row id="kubilay" type="left" %}
+{% include feature_row id="xiaoming" type="left" %}
+{% include feature_row id="yongjae" type="left" %}
+{% include feature_row id="jundong" type="left" %}
+{% include feature_row id="milos" type="left" %}
+
 </section>
 
