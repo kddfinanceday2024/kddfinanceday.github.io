@@ -122,7 +122,7 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
   <tr>
     <td class="tg-73oq">9:10am</td>
     <td class="tg-73oq">10:10am</td>
-    <td class="tg-73oq">Morning Keynote</td>
+    <td class="tg-73oq">Keynote Talk</td>
     <td class="tg-73oq"><b>Avanidhar Subrahmanyam (UCLA)</b></td>
   </tr>
   <tr>
@@ -156,10 +156,15 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
   </tr>
   <tr>
     <td class="tg-73oq">2:00pm</td>
+    <td class="tg-73oq">2:30pm</td>
+    <td class="tg-73oq">Featured Talk</td>
+    <td class="tg-73oq"><b>Henrike Mueller (Financial Conduct Authority, UK)</b></td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">2:30pm</td>
     <td class="tg-73oq">4:00pm</td>
     <td class="tg-73oq">Invited Talks</td>
     <td class="tg-73oq">
-      Henrike Mueller (Financial Conduct Authority, UK)
       <br>Stefan Zohren (University of Oxford, UK)
       <br>Dumitru Roman (SINTEF ICT & Univ. of Norway)
       <br>Kubilay Atasu (Delft University of Technology, Netherlands)
