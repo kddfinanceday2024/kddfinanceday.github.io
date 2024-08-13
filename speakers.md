@@ -22,7 +22,7 @@ featuredspeakers:
     title: "Henrike Mueller"
     url: "https://www.linkedin.com/in/dr-henrike-mueller-38051429/?originalSubdomain=uk"
     excerpt: |
-         AI Strategy Team Manager, Financial Conduct Authority
+         AI Strategy Team Manager, Financial Conduct Authority, UK
 
 
 claudia:
