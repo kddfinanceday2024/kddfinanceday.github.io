@@ -130,8 +130,10 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     <td class="tg-73oq">10:10am</td>
     <td class="tg-73oq">10:40am</td>
     <td class="tg-73oq">Invited Talk</td>
-    <td class="tg-73oq"><a href="https://www.linkedin.com/in/dr-henrike-mueller-38051429/?originalSubdomain=uk">Claudia Perlich</a> (Two Sigma)</td>
-    <br><em>Title: Challenges and Opportunities for AI in Systematic Investing</em>
+    <td class="tg-73oq">
+      <a href="https://www.linkedin.com/in/dr-henrike-mueller-38051429/?originalSubdomain=uk">Claudia Perlich</a> (Two Sigma)
+      <br><em>Title: Challenges and Opportunities for AI in Systematic Investing</em>
+    </td>
   </tr>
   <tr>
     <td class="tg-vwhn">10:40am</td>
