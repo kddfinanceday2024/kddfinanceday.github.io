@@ -149,6 +149,7 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
       <a href="https://www.kiml.ifi.lmu.de/people/professors/huellermeier/index.html">Eyke Hüllermeier</a> (LMU Munich)
       <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Uncertainty Quantification in Machine Learning: Current Status and Open Challenges</em>
       <br><a href="https://www.linkedin.com/in/senthil-kumar-24b0419/">Senthil Kumar</a> (Capital One)
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Sequence Modeling in Finance</em>
       <br><a href="https://engineering.virginia.edu/faculty/jundong-li">Jundong Li</a> (University of Virginia)
       <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Trustworthy Graph Machine Learning for Financial Applications</em>
       <br><a href="https://unist-felab.notion.site/Yongjae-Lee-Ph-D-f43bbcebc05a4697b56b42db61e3e221">Yongjae Lee</a> (UNIST)
