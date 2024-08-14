@@ -132,7 +132,7 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     <td class="tg-73oq">Invited Talk</td>
     <td class="tg-73oq">
       <a href="https://www.linkedin.com/in/dr-henrike-mueller-38051429/?originalSubdomain=uk">Claudia Perlich</a> (Two Sigma)
-      <br><em>Title: Challenges and Opportunities for AI in Systematic Investing</em>
+      <br>&nbsp;<em>Title: Challenges and Opportunities for AI in Systematic Investing</em>
     </td>
   </tr>
   <tr>
@@ -147,10 +147,10 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     <td class="tg-73oq">Invited Talks</td>
     <td class="tg-73oq">
       <a href="https://www.kiml.ifi.lmu.de/people/professors/huellermeier/index.html">Eyke Hüllermeier</a> (LMU Munich)
-      <br><em>Title: Uncertainty Quantification in Machine Learning: Current Status and Open Challenges</em>
+      <br>&nbsp;<em>Title: Uncertainty Quantification in Machine Learning: Current Status and Open Challenges</em>
       <br><a href="https://www.linkedin.com/in/senthil-kumar-24b0419/">Senthil Kumar</a> (Capital One)
       <br><a href="https://engineering.virginia.edu/faculty/jundong-li">Jundong Li</a> (University of Virginia)
-      <br><em>Title: Trustworthy Graph Machine Learning for Financial Applications</em>
+      <br>&nbsp;<em>Title: Trustworthy Graph Machine Learning for Financial Applications</em>
       <br><a href="https://unist-felab.notion.site/Yongjae-Lee-Ph-D-f43bbcebc05a4697b56b42db61e3e221">Yongjae Lee</a> (UNIST)
     </td>
   </tr>
