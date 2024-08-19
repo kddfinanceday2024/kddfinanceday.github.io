@@ -124,8 +124,10 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     <td class="tg-73oq">9:10am</td>
     <td class="tg-73oq">10:10am</td>
     <td class="tg-73oq">Keynote Talk</td>
-    <td class="tg-73oq"><b><a href="https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/subrahmanyam">Avanidhar Subrahmanyam</a> (UCLA)</b></td>
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;<em><b>Title: Short-Term Reversals and Longer-Term Momentum Around the World: Theory and Evidence</b>b</em>
+    <td class="tg-73oq"><b>
+      <a href="https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/subrahmanyam">Avanidhar Subrahmanyam</a> (UCLA)</b>
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;<em><b>Title: Short-Term Reversals and Longer-Term Momentum Around the World: Theory and Evidence</b>b</em>
+    </td>
   </tr>
   <tr>
     <td class="tg-73oq">10:10am</td>
