@@ -125,6 +125,7 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     <td class="tg-73oq">10:10am</td>
     <td class="tg-73oq">Keynote Talk</td>
     <td class="tg-73oq"><b><a href="https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/subrahmanyam">Avanidhar Subrahmanyam</a> (UCLA)</b></td>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;<em><b>Title: Short-Term Reversals and Longer-Term Momentum Around the World: Theory and Evidence</b>b</em>
   </tr>
   <tr>
     <td class="tg-73oq">10:10am</td>
@@ -153,6 +154,7 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
       <br><a href="https://engineering.virginia.edu/faculty/jundong-li">Jundong Li</a> (University of Virginia)
       <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Trustworthy Graph Machine Learning for Financial Applications</em>
       <br><a href="https://unist-felab.notion.site/Yongjae-Lee-Ph-D-f43bbcebc05a4697b56b42db61e3e221">Yongjae Lee</a> (UNIST)
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Investment Recommendation for Individual Investors</em>
     </td>
   </tr>
   <tr>
@@ -190,6 +192,7 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     <td class="tg-73oq">
       <a href="https://www4.comp.polyu.edu.hk/~csxmwu/">Xiao-Ming Wu</a> (Hong Kong Poly University)
       <br><a href="https://www.linkedin.com/in/milosblagojevic/?originalSubdomain=rs">Milos Blagojevic</a> (BlackRock)
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Empowering AI Agents with Domain-Driven Design: A Blueprint for Advanced API Orchestration in Financial Services</em>
     </td>
   </tr>
   <tr>
