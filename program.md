@@ -134,7 +134,7 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     <td class="tg-73oq">10:40am</td>
     <td class="tg-73oq">Invited Talk</td>
     <td class="tg-73oq">
-      <a href="https://www.linkedin.com/in/dr-henrike-mueller-38051429/?originalSubdomain=uk">Claudia Perlich</a> (Two Sigma)
+      <a href="https://twosigmaventures.com/our-team/profile/claudia-perlich/">Claudia Perlich</a> (Two Sigma)
       <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Challenges and Opportunities for AI in Systematic Investing</em>
     </td>
   </tr>
@@ -169,7 +169,10 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     <td class="tg-73oq">2:00pm</td>
     <td class="tg-73oq">2:30pm</td>
     <td class="tg-73oq">Featured Talk</td>
-    <td class="tg-73oq"><b><a href="https://www.linkedin.com/in/dr-henrike-mueller-38051429/?originalSubdomain=uk">Henrike Mueller</a> (Financial Conduct Authority)</b></td>
+    <td class="tg-73oq">
+      <b><a href="https://www.linkedin.com/in/dr-henrike-mueller-38051429/?originalSubdomain=uk">Henrike Mueller</a> (Financial Conduct Authority)</b>
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;<em><b>Title: AI in financial services – a regulatory perspective</b></em>
+    </td>
   </tr>
   <tr>
     <td class="tg-73oq">2:30pm</td>
@@ -179,6 +182,7 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
       <a href="https://eng.ox.ac.uk/people/stefan-zohren/">Stefan Zohren</a> (University of Oxford)
       <br><a href="https://www.oslomet.no/en/about/employee/dumitrur/">Dumitru Roman</a> (SINTEF ICT & Univ. of Norway)
       <br><a href="https://www.tudelft.nl/en/2023/ewi/st/dr-kubilay-atasus-appointment-as-associate-professor">Kubilay Atasu</a> (Delft University of Technology)
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Graph Machine Learning for Financial Crime Analysis</em>
     </td>
   </tr>
   <tr>
