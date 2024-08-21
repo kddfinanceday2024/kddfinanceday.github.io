@@ -31,7 +31,7 @@ claudia:
     title: "Claudia Perlich"
     url: "https://twosigmaventures.com/our-team/profile/claudia-perlich/"
     excerpt: |
-         MD Data Scientist, Two Sigma
+         Head of Strategic Data Science, Two Sigma, US
     
 eyke:
   - image_path: assets/images/eyke.jpg
