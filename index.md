@@ -35,7 +35,14 @@ organizers_row_second:
     btn_label: "Homepage"
     btn_class: "btn--primary"
     
-
+sponsorship:
+  - image_path: assets/images/bbva.png
+    alt: "Banco Bilbao Vizcaya Argentaria (BBVA)"
+    title: "Banco Bilbao Vizcaya Argentaria (BBVA)"
+    excerpt: ""
+    url: "https://www.bbva.com/en/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
     
 ---
 <br/>
@@ -64,4 +71,8 @@ Join us at KDD Finance Day 2024 on August 26, 2024, in Barcelona, Spain. This ev
 
 {% include feature_row id="organizers_row_second" %}
 
+
+## Sponsorship
+
+{% include feature_row id="sponsorship" %}
 </section>
