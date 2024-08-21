@@ -50,14 +50,13 @@ senthil:
     excerpt: |
          Head of Emerging Research, Capital One
 
-stefan:
-  - image_path: assets/images/stefan.jpg
-    alt: "Stefan Zohren"
-    title: "Stefan Zohren"
-    url: "https://eng.ox.ac.uk/people/stefan-zohren/"
+xiangyu:
+  - image_path: assets/images/xiangyu.png
+    alt: "Xiangyu Zhao"
+    title: "Xiangyu Zhao"
+    url: "https://zhaoxyai.github.io/"
     excerpt: |
-         Associate Professor, University of Oxford \
-         Research Fellow & Associate, Oxford-Man Institute
+         Assistant Professor, City University of Hong Kong
 
 dumitru:
   - image_path: assets/images/dumitru.jpg
@@ -178,7 +177,8 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     <td class="tg-73oq">4:00pm</td>
     <td class="tg-73oq">Invited Talks</td>
     <td class="tg-73oq">
-      <a href="https://eng.ox.ac.uk/people/stefan-zohren/">Stefan Zohren</a> (University of Oxford)
+      <a href="https://zhaoxyai.github.io/">Xiangyu Zhao</a> (City University of Hong Kong)
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Adaptive and Automated Deep Recommender Systems</em>
       <br><a href="https://www.oslomet.no/en/about/employee/dumitrur/">Dumitru Roman</a> (SINTEF AS & OsloMet)
       <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Synthetic Financial Data Generation for Green and Sustainable Finance</em>
       <br><a href="https://www.tudelft.nl/en/2023/ewi/st/dr-kubilay-atasus-appointment-as-associate-professor">Kubilay Atasu</a> (Delft University of Technology)
@@ -224,7 +224,7 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
 {% include feature_row id="claudia" type="left" %}
 {% include feature_row id="eyke" type="left" %}
 {% include feature_row id="senthil" type="left" %}
-{% include feature_row id="stefan" type="left" %}
+{% include feature_row id="xiangyu" type="left" %}
 {% include feature_row id="dumitru" type="left" %}
 {% include feature_row id="kubilay" type="left" %}
 {% include feature_row id="xiaoming" type="left" %}
