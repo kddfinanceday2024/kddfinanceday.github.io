@@ -162,7 +162,7 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     <td class="tg-vwhn">1:00pm</td>
     <td class="tg-vwhn">2:00pm</td>
     <td class="tg-vwhn">Lunch Time</td>
-    <td class="tg-vwhn"></td>
+    <td class="tg-vwhn">Buffet Lunch will be served inside the Finance Day room</td>
   </tr>
   <tr>
     <td class="tg-73oq">2:00pm</td>
