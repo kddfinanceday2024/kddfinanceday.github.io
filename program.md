@@ -65,8 +65,7 @@ dumitru:
     title: "Dumitru Roman"
     url: "https://www.oslomet.no/en/about/employee/dumitrur/"
     excerpt: |
-         Senior Research Scientist, SINTEF ICT & Univ. \
-         Professor, Oslo Metropolitan University
+         Senior Research Scientist, SINTEF AS & OsloMet
 
 kubilay:
   - image_path: assets/images/kubilay.jpg
@@ -180,7 +179,8 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     <td class="tg-73oq">Invited Talks</td>
     <td class="tg-73oq">
       <a href="https://eng.ox.ac.uk/people/stefan-zohren/">Stefan Zohren</a> (University of Oxford)
-      <br><a href="https://www.oslomet.no/en/about/employee/dumitrur/">Dumitru Roman</a> (SINTEF ICT & Univ. of Norway)
+      <br><a href="https://www.oslomet.no/en/about/employee/dumitrur/">Dumitru Roman</a> (SINTEF AS & OsloMet)
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Synthetic Financial Data Generation for Green and Sustainable Finance</em>
       <br><a href="https://www.tudelft.nl/en/2023/ewi/st/dr-kubilay-atasus-appointment-as-associate-professor">Kubilay Atasu</a> (Delft University of Technology)
       <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Graph Machine Learning for Financial Crime Analysis</em>
     </td>
