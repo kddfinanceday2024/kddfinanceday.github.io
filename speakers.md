@@ -65,8 +65,7 @@ dumitru:
     title: "Dumitru Roman"
     url: "https://www.oslomet.no/en/about/employee/dumitrur/"
     excerpt: |
-         Senior Research Scientist, SINTEF ICT & Univ. \
-         Professor, Oslo Metropolitan University
+         Senior Research Scientist, SINTEF AS & OsloMet
 
 kubilay:
   - image_path: assets/images/kubilay.jpg
