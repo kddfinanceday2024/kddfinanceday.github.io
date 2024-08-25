@@ -197,6 +197,7 @@ KDD Finance Day 2024 will take place on August 26, 2024, in Barcelona, Spain.
     <td class="tg-73oq">Invited Talks</td>
     <td class="tg-73oq">
       <a href="https://www4.comp.polyu.edu.hk/~csxmwu/">Xiao-Ming Wu</a> (Hong Kong Poly University)
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Toward Automated Smart Contract Generation: Retrieval-Augmented Solidity Code Completion and Correctness Evaluation</em>
       <br><a href="https://www.linkedin.com/in/milosblagojevic/?originalSubdomain=rs">Milos Blagojevic</a> (BlackRock)
       <br>&nbsp;&nbsp;&nbsp;&nbsp;<em>Title: Empowering AI Agents with Domain-Driven Design: A Blueprint for Advanced API Orchestration in Financial Services</em>
     </td>
